@@ -1,4 +1,6 @@
 > This fork from qknight/libnoise was to use this alongside a native plugin for the Unity game engine. It is still licensed under the LGPL as before. Primarily, he made some modifications to allow compiling to a Windows x64 DLL.
+> The examples are moved to https://github.com/agguro/noise/tree/master/NoiseExamples because I prefer QT5 with qmake instead of CMake.  Later on I'm planning to remake the examples for QT5 and NASM and AVX instructions (if I finally learned them).
+But it's still planning....
 
 libnoise
 ========
