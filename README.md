@@ -1,2 +1,2 @@
-# noise
+# noise examples
 use of libnoise
